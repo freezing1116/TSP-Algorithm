@@ -16,7 +16,7 @@ python3 main.py <ALGORITHM> <PATH>
 ```
 For example, 
 ```
-python3 main.py -fuzzopt-2op ./tspfiles/burma14
+python3 main.py -fuzzopt-2opt ./tspfiles/burma14
 ```
 Then, it will show the tour length and the tour.
 
