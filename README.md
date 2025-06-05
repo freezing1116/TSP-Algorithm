@@ -11,7 +11,9 @@ This repository contains a set of Python scripts for solving Travelling Salesman
 - Shell scripts (`test_1case_10times.sh`, `test_allcases_1time.sh`) for automated benchmarking across one or multiple TSP instances.
 
 ## How to Use
-``` python3 main.py <ALGORITHM> <PATH> ```
+``` 
+python3 main.py <ALGORITHM> <PATH>
+```
 For example, ```python3 main.py -fuzzopt-2op ./tspfiles/burma14```
 Then, it will show the tour length and the tour.
 
